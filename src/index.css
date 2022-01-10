@@ -1,0 +1,17 @@
+.tip div {
+    margin-bottom: 8px;
+}
+
+
+.tip svg {
+    cursor: pointer;
+    width: 15px;
+}
+
+.tip svg path {
+    fill: #7F7F7F;
+}
+
+.tip svg:hover path {
+    fill: #FFFFFF;
+}
